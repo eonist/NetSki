@@ -1,2 +1,2 @@
 # NetSki
-Sugar that makes sift networking less cumbersome
+Sugar that makes swift networking less cumbersome
